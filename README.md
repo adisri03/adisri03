@@ -5,7 +5,8 @@
 
 ![Linkedin: adisri](https://img.shields.io/badge/-adisri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adisrirajkumar/)](https://www.linkedin.com/in/adisrirajkumar/)
 
-![GitHub followers](https://img.shields.io/github/followers/adisri03?label=Follow&style=social)
+[![GitHub Adisri](https://img.shields.io/github/followers/adisri?label=follow&style=social)](https://github.com/adisri03)
+
 
 
 
