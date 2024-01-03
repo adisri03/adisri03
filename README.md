@@ -13,7 +13,6 @@
 ```javascript
 const adisri = {
     code: ["Javascript", "Python", "Java", "HTML","C",],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
