@@ -14,11 +14,16 @@
 const adisri = {
     code: ["Javascript", "Python", "Java", "HTML","C",],
     technologies: {
+        frontend:{["React"]
+        },
         backEnd: {
             js: ["Node", "Express"],
         },
+        API: {
+            js: ["GraphQL", "REST"],
+        },
         devOps: ["AWS"],
-        databases: ["mongo", "MySql"]
+        databases: ["MongoDB", "MySql"]
 
     }
     
